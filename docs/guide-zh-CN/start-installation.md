@@ -8,7 +8,7 @@
 
 ### 环境要求
 
-- PHP >= 7.1.3
+- PHP >= 7.2 (卸载邮件依赖 7.1.3 亦可)
 - PHP cURL 扩展
 - PHP OpenSSL 扩展
 - PHP fileinfo 拓展 素材管理模块需要用到
@@ -17,7 +17,7 @@
 - Composer (用于管理第三方扩展包)
 - 安装CA证书 (windows开发环境下)
 
-> 必须先看[环境搭建文档](start-issue.md)，安装完毕后务必配置站点和对应的[伪静态](start-rewrite.md)还有[常见问题文档](start-environment.md)
+> 必须先看[环境搭建文档](start-environment.md)，安装完毕后务必配置站点和对应的[伪静态](start-rewrite.md)还有[常见问题文档](start-issue.md)
 
 ### 安装
 
